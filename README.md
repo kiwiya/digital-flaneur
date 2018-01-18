@@ -1,2 +1,3 @@
-# digital-flaneur
-Course repository for Digital Flaneur
+# Digital Flaneur
+Course repository for Digital Flaneur. Welcome!
+
